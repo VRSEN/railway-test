@@ -1,0 +1,9 @@
+agency_swarm
+openai
+python-dotenv
+tavily-python
+nltk
+pytrends
+google-api-python-client
+textblob
+pandas
